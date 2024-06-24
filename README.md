@@ -1,18 +1,16 @@
 # Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-# Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
-Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+## Skills:
+**Languages**
+Python, R, SQL, C, C++, MATLAB
+**Tools**
+Anaconda, Jupyter, RStudio, MySQL, PostgreSQL, Git, PyTorch, PySpark, LangChain, Microsoft Azure, Power BI
+**Technologies**
+Data mining, Feature Engineering, Statistical Modelling, Machine Learning: Regression/ Clustering/Classification, Deep Learning, Reinforcement Learning, Neural Networks, Time-Series Analysis, Natural Language Processing
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+## Education
+**Bachelor of Science: Data Science | Simon Fraser University (Sep 2020 – Apr 2025)**
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-Projects
-Data-Driven EEG Band Discovery with Decision Trees
+## Work Experience
+
+## Projects
