@@ -1,4 +1,4 @@
-# Data Science Portfolio - Vibhuti Gandhi
+# Portfolio - Vibhuti Gandhi
 
 ## Skills
 
