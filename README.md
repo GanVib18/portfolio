@@ -2,21 +2,17 @@
 
 ## Skills
 
-**Languages:** 
+**Languages:** Python, R, SQL, C, C++, MATLAB
 
-Python, R, SQL, C, C++, MATLAB
+**Tools:** Jupyter, RStudio, MySQL, PostgreSQL, Git, PyTorch, PySpark, TensorFlow, Keras, LangChain, Hugging Face, Microsoft Azure, Power BI
 
-**Tools:** 
-
-Jupyter, RStudio, MySQL, PostgreSQL, Git, PyTorch, PySpark, TensorFlow, Keras, LangChain, Hugging Face, Microsoft Azure, Power BI
-
-**Domains:** 
-
-Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Deep Learning, Reinforcement Learning, Neural Networks, Time-Series Analysis, Natural Language Processing, Generative AI
+**Domains:** Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Deep Learning, Reinforcement Learning, Neural Networks, Time-Series Analysis, Natural Language Processing, Generative AI
 
 ## Education
 
-- Bachelor of Science: Data Science | Simon Fraser University | Sep 2020 – Apr 2025
+Bachelor of Science: Data Science @ Simon Fraser University (Sep 2020 – Apr 2025)
+
+**Relevant Coursework:** Object Oriented Programming, Applied Multivariate Analysis, Sampling and Experimental Design, Statistical Learning and Prediction, Artificial Intelligence, Time Series Analysis, Object Oriented Programming, Database Systems, Linear Optimization
 
 ## Work Experience
 
@@ -81,3 +77,13 @@ Organized a Workshop on House Prices Prediction with DSSS, teaching Multiple Lin
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/8.jpg"> **[MENTORSHIP: Word Embeddings](https://github.com/Vancouver-Datajam/Word-Embeddings)** 
 
 Coached and mentored participants in a project on word embeddings, utilizing ELMo and BERT for contextual representation in analyzing climate, fire, and flood events, aiming to enhance the participants' understanding and application of vector representation for semantic analysis.
+
+## Certifications 
+
+-  [Microsoft Certified: Azure AI Fundamentals](https://github.com/Vancouver-Datajam/Word-Embeddings)
+-  [Udemy: Machine Learning A-Z](https://www.udemy.com/certificate/UC-34b4e8aa-f18a-4be9-acaf-08fc674e4e01/)
+-  [UDemy: PySpark Essentials](https://www.udemy.com/certificate/UC-b3dc284a-c077-41db-a293-b659184e76b7/)
+-  [Kaggle: Intro to Deep Learning](https://www.kaggle.com/learn/certification/vibhutigandhi/intro-to-deep-learning)
+-  [Kaggle: Computer Vision](https://www.kaggle.com/learn/certification/vibhutigandhi/computer-vision)
+-  [Kaggle: Geospatial Analysis](https://www.kaggle.com/learn/certification/vibhutigandhi/geospatial-analysis)
+
