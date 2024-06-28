@@ -40,7 +40,7 @@ Developed a Python-based Wikipedia Summarizer app hosted on Streamlit by leverag
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/2.jpg"> **[Diabetes Prediction](https://github.com/GanVib18/Diabetes-Prediction)**
 
-In the project I study model performance of Binary Classification models and Support Vector Machines by utilizing the Pima Indians Diabetes dataset. I developed, fine-tuned and evaluated predictive models including Logistic Regression, K-Nearest Neighbours (KNN), Linear Discriminant Analysis (LDA), and Support Vector Machines (SVM) with an RBF kernel.
+Conducted a comprehensive study on the performance of binary classification models and Support Vector Machines using the Pima Indians Diabetes dataset. Developed, fine-tuned, and evaluated predictive models, including Logistic Regression, K-Nearest Neighbors (KNN), Linear Discriminant Analysis (LDA), and Support Vector Machines (SVM) with an RBF kernel.
 
 # 
 
