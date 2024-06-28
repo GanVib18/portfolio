@@ -84,7 +84,7 @@ Coached and mentored participants in a project on word embeddings, utilizing ELM
 
 -  [Microsoft Certified: Azure AI Fundamentals](https://github.com/Vancouver-Datajam/Word-Embeddings)
 -  [Udemy: Machine Learning A-Z](https://www.udemy.com/certificate/UC-34b4e8aa-f18a-4be9-acaf-08fc674e4e01/)
--  [UDemy: PySpark Essentials](https://www.udemy.com/certificate/UC-b3dc284a-c077-41db-a293-b659184e76b7/)
+-  [Udemy: PySpark Essentials](https://www.udemy.com/certificate/UC-b3dc284a-c077-41db-a293-b659184e76b7/)
 -  [Kaggle: Intro to Deep Learning](https://www.kaggle.com/learn/certification/vibhutigandhi/intro-to-deep-learning)
 -  [Kaggle: Computer Vision](https://www.kaggle.com/learn/certification/vibhutigandhi/computer-vision)
 -  [Kaggle: Geospatial Analysis](https://www.kaggle.com/learn/certification/vibhutigandhi/geospatial-analysis)
