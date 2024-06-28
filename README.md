@@ -36,48 +36,48 @@ Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regre
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/1.png"> **[Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App)**
 
 In the Wikipedia Summarizer GPT App, I developed a tool using Python and hosted on Streamlit, integrating advanced NLP with the Google Flan-T5 XXL model to provide concise and detailed Wikipedia article summaries, aiming to improve information accessibility and user experience. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Diabetes Prediction](https://github.com/GanVib18/Diabetes-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/2.png"> **[Diabetes Prediction](https://github.com/GanVib18/Diabetes-Prediction)**
 
 In the project I study model performance of Binary Classification models and Support Vector Machines by utilizing the Pima Indians Diabetes dataset. I developed, fine-tuned and evaluated predictive models including Logistic Regression, K-Nearest Neighbours (KNN), Linear Discriminant Analysis (LDA), and Support Vector Machines (SVM) with an RBF kernel.
 
 # 
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Analysis of Dow Jones Industrial Average Returns using ARIMA](https://github.com/GanVib18/Analysis-of-Dow-Jones-Industrial-Average-Returns-using-ARIMA)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/3.png"> **[Analysis of Dow Jones Industrial Average Returns using ARIMA](https://github.com/GanVib18/Analysis-of-Dow-Jones-Industrial-Average-Returns-using-ARIMA)**
  
 In the project I employed time series ARIMA models following the Box-Jenkins approach to analyze and forecast Dow Jones Industrial stock price returns, addressing the concepts of volatility clustering, heteroskedasticity, and mean reversion.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Bank Churn Analysis](https://github.com/GanVib18/Bank-Churn-Analysis/tree/main)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/4.png"> **[Bank Churn Analysis](https://github.com/GanVib18/Bank-Churn-Analysis/tree/main)**
 
 I leveraged Microsoft Azure (Synapse Analytics) and MySQL alongside Power BI to analyze customer churn over four years, implementing robust data cleaning, transformation, and modeling to deploy an interactive dashboard for actionable retention insights.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Vancouver Weather Forecast using Neural Prophet](https://www.kaggle.com/code/vibhutigandhi/vancouver-weather-forecast-using-neural-prophet/notebook)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/5.png"> **[Vancouver Weather Forecast using Neural Prophet](https://www.kaggle.com/code/vibhutigandhi/vancouver-weather-forecast-using-neural-prophet/notebook)**
 
 This project was part of a Kaggle data challenge where I trained and fine-tuned Meta AI's deep learning Neural Prophet model in Python utilizing the PyToch library to achieve up to 78% forecast accuracy Vancouver's weather by incorporating daily, weekly, and monthly seasonality trends from eighty years of Canadian climate data.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[HACKATHON WINNER: Canada's CPI during Pandemic](https://github.com/Vancouver-Datajam/CPI/)** 
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/6.png"> **[HACKATHON WINNER: Canada's CPI during Pandemic](https://github.com/Vancouver-Datajam/CPI/)** 
 
 I conducted descriptive time series analysis and deployed an ARIMA model with 92% accuracy to forecast inflation in Canada. I used Python for machine learning and data visualization, contributing to a 1st place ranking in the competition and providing actionable insights into consumer trends and price dynamics during crises. [VIDEO](https://www.youtube.com/watch?v=av6l6yLJ8q0)
 
 ## Workshops & Mentorship
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[ORGANIZED WORKSHOP: House Prices Prediction](https://github.com/GanVib18/DSSS-Workshop-House-Prices)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/7.png"> **[ORGANIZED WORKSHOP: House Prices Prediction](https://github.com/GanVib18/DSSS-Workshop-House-Prices)**
 
 Organized a Workshop on House Prices Prediction with DSSS, teaching Multiple Linear Regression for data preprocessing, exploratory analysis, and regularization, attended by over 20 participants, aimed at enhancing skills in statistical concepts and predictive modeling.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[MENTORSHIP: Word Embeddings](https://github.com/Vancouver-Datajam/Word-Embeddings)** 
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/8.png"> **[MENTORSHIP: Word Embeddings](https://github.com/Vancouver-Datajam/Word-Embeddings)** 
 
 Coached and mentored participants in a project on word embeddings, utilizing ELMo and BERT for contextual representation in analyzing climate, fire, and flood events, aiming to enhance the participants' understanding and application of vector representation for semantic analysis.
