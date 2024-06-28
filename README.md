@@ -1,5 +1,11 @@
 # Portfolio - Vibhuti Gandhi
 
+## Education
+
+**Bachelor of Science: Data Science @ Simon Fraser University (Sep 2020 – Apr 2025)**
+
+**Relevant Coursework:** Object Oriented Programming, Applied Multivariate Analysis, Sampling and Experimental Design, Statistical Learning and Prediction, Artificial Intelligence, Time Series Analysis, Object Oriented Programming, Database Systems, Linear Optimization
+
 ## Skills
 
 **Languages:** Python, R, SQL, C, C++, MATLAB
@@ -7,12 +13,6 @@
 **Tools:** Jupyter, RStudio, MySQL, PostgreSQL, Git, PyTorch, PySpark, TensorFlow, Keras, LangChain, Hugging Face, Microsoft Azure, Power BI
 
 **Domains:** Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Deep Learning, Reinforcement Learning, Neural Networks, Time-Series Analysis, Natural Language Processing, Generative AI
-
-## Education
-
-**Bachelor of Science: Data Science @ Simon Fraser University (Sep 2020 – Apr 2025)**
-
-**Relevant Coursework:** Object Oriented Programming, Applied Multivariate Analysis, Sampling and Experimental Design, Statistical Learning and Prediction, Artificial Intelligence, Time Series Analysis, Object Oriented Programming, Database Systems, Linear Optimization
 
 ## Work Experience
 
