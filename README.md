@@ -34,7 +34,7 @@
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/1.png"> **[Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App)**
 
-In the Wikipedia Summarizer GPT App, I developed a tool using Python and hosted on Streamlit, integrating advanced NLP with the Google Flan-T5 XXL model to provide concise and detailed Wikipedia article summaries, aiming to improve information accessibility and user experience. 
+In the Wikipedia Summarizer GPT App, I developed a tool using Python and hosted on Streamlit, integrating NLP techniques with the Google Flan-T5 XXL model to provide concise and detailed Wikipedia article summaries, aiming to improve information accessibility and user experience. 
 
 #
 
