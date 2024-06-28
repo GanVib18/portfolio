@@ -78,6 +78,8 @@ Organized a Workshop on House Prices Prediction with DSSS, teaching Multiple Lin
 
 Coached and mentored participants in a project on word embeddings, utilizing ELMo and BERT for contextual representation in analyzing climate, fire, and flood events, aiming to enhance the participants' understanding and application of vector representation for semantic analysis.
 
+#
+
 ## Certifications 
 
 -  [Microsoft Certified: Azure AI Fundamentals](https://github.com/Vancouver-Datajam/Word-Embeddings)
