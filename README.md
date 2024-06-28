@@ -2,11 +2,17 @@
 
 ## Skills
 
-**Languages:** Python, R, SQL, C, C++, MATLAB
+**Languages:** 
 
-**Tools:** Jupyter, RStudio, MySQL, PostgreSQL, Git, PyTorch, PySpark, TensorFlow, Keras, LangChain, Hugging Face, Microsoft Azure, Power BI
+Python, R, SQL, C, C++, MATLAB
 
-**Concepts:** Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Deep Learning, Reinforcement Learning, Neural Networks, Time-Series Analysis, Natural Language Processing, Generative AI
+**Tools:** 
+
+Jupyter, RStudio, MySQL, PostgreSQL, Git, PyTorch, PySpark, TensorFlow, Keras, LangChain, Hugging Face, Microsoft Azure, Power BI
+
+**Concepts:** 
+
+Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Deep Learning, Reinforcement Learning, Neural Networks, Time-Series Analysis, Natural Language Processing, Generative AI
 
 ## Education
 
