@@ -34,7 +34,7 @@
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/1.png"> **[Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App)**
 
-In the Wikipedia Summarizer GPT App, I developed a tool using Python and hosted on Streamlit, integrating NLP techniques with the Google Flan-T5 XXL model to provide concise and detailed Wikipedia article summaries, aiming to improve information accessibility and user experience. 
+Developed a Python-based Wikipedia Summarizer app hosted on Streamlit by leveraging NLP techniques and the Google Flan-T5 XXL model. This tool delivers concise and detailed summaries of Wikipedia articles, enhancing information accessibility and facilitating efficient knowledge acquisition via RAG framework.
 
 #
 
@@ -46,37 +46,37 @@ In the project I study model performance of Binary Classification models and Sup
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/3.png"> **[Analysis of Dow Jones Industrial Average Returns using ARIMA](https://github.com/GanVib18/Analysis-of-Dow-Jones-Industrial-Average-Returns-using-ARIMA)**
  
-In the project I employed time series ARIMA models following the Box-Jenkins approach to analyze and forecast Dow Jones Industrial stock price returns, addressing the concepts of volatility clustering, heteroskedasticity, and mean reversion.
+Utilized time series ARIMA models, following the Box-Jenkins methodology, to analyze and forecast Dow Jones Industrial Average stock price returns. The project addressed key concepts such as volatility clustering, heteroskedasticity, and mean reversion.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/4.png"> **[Bank Churn Analysis](https://github.com/GanVib18/Bank-Churn-Analysis/tree/main)**
 
-I leveraged Microsoft Azure (Synapse Analytics) and MySQL alongside Power BI to analyze customer churn over four years, implementing robust data cleaning, transformation, and modeling to deploy an interactive dashboard for actionable retention insights.
+Utilized Microsoft Azure (Synapse Analytics) and MySQL in conjunction with Power BI to analyze customer churn over a four-year period. Implemented rigorous data cleaning, transformation, and modeling techniques to develop an interactive dashboard, providing actionable insights for improving customer retention strategies.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/5.jpg"> **[Vancouver Weather Forecast using Neural Prophet](https://www.kaggle.com/code/vibhutigandhi/vancouver-weather-forecast-using-neural-prophet/notebook)**
 
-This project was part of a Kaggle data challenge where I trained and fine-tuned Meta AI's deep learning Neural Prophet model in Python utilizing the PyToch library to achieve up to 78% forecast accuracy Vancouver's weather by incorporating daily, weekly, and monthly seasonality trends from eighty years of Canadian climate data.
+Participated in a Kaggle data challenge leveraging Meta AI's deep learning Neural Prophet model in Python with the PyTorch library. Achieved up to 78% forecast accuracy for Vancouver's weather by incorporating daily, weekly, and monthly seasonality trends from eighty years of Canadian climate data.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/6.jpg"> **[HACKATHON WINNER: Canada's CPI during Pandemic](https://github.com/Vancouver-Datajam/CPI/)** 
 
-I conducted descriptive time series analysis and deployed an ARIMA model with 92% accuracy to forecast inflation in Canada. I used Python for machine learning and data visualization, contributing to a 1st place ranking in the competition and providing actionable insights into consumer trends and price dynamics during crises. [VIDEO](https://www.youtube.com/watch?v=av6l6yLJ8q0)
+Performed descriptive time series analysis and implemented an ARIMA model to forecast inflation in Canada with 92% accuracy. Utilized Python for machine learning and data visualization, achieving a 1st place ranking in the competition and delivering actionable insights into consumer trends and price dynamics during crises. [VIDEO](https://www.youtube.com/watch?v=av6l6yLJ8q0)
 
 ## Workshops & Mentorship
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/7.jpg"> **[ORGANIZED WORKSHOP: House Prices Prediction](https://github.com/GanVib18/DSSS-Workshop-House-Prices)**
 
-Organized a Workshop on House Prices Prediction with DSSS, teaching Multiple Linear Regression for data preprocessing, exploratory analysis, and regularization, attended by over 20 participants, aimed at enhancing skills in statistical concepts and predictive modeling.
+Organized a workshop on House Price Prediction with DSSS, focusing on Multiple Linear Regression for data preprocessing, exploratory analysis, and regularization. Attended by over 20 participants, the workshop aimed to enhance skills in statistical concepts and predictive modeling.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/8.jpg"> **[MENTORSHIP: Word Embeddings](https://github.com/Vancouver-Datajam/Word-Embeddings)** 
 
-Coached and mentored participants in a project on word embeddings, utilizing ELMo and BERT for contextual representation in analyzing climate, fire, and flood events, aiming to enhance the participants' understanding and application of vector representation for semantic analysis.
+Coached and mentored participants in a project on word embeddings, utilizing ELMo and BERT for contextual representation in analyzing climate, fire, and flood events. Aimed to enhance participants' understanding and application of vector representation for semantic analysis.
 
 #
 
