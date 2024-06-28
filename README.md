@@ -10,7 +10,7 @@
 
 ## Education
 
-Bachelor of Science: Data Science @ Simon Fraser University (Sep 2020 – Apr 2025)
+**Bachelor of Science: Data Science @ Simon Fraser University (Sep 2020 – Apr 2025)**
 
 **Relevant Coursework:** Object Oriented Programming, Applied Multivariate Analysis, Sampling and Experimental Design, Statistical Learning and Prediction, Artificial Intelligence, Time Series Analysis, Object Oriented Programming, Database Systems, Linear Optimization
 
