@@ -82,7 +82,7 @@ Coached and mentored participants in a project on word embeddings, utilizing ELM
 
 ## Certifications 
 
--  [Microsoft Certified: Azure AI Fundamentals](https://github.com/Vancouver-Datajam/Word-Embeddings)
+-  [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/d446bfbd-0f65-4112-bcd6-9e31a09cfe74)
 -  [Udemy: Machine Learning A-Z](https://www.udemy.com/certificate/UC-34b4e8aa-f18a-4be9-acaf-08fc674e4e01/)
 -  [Udemy: PySpark Essentials](https://www.udemy.com/certificate/UC-b3dc284a-c077-41db-a293-b659184e76b7/)
 -  [Kaggle: Intro to Deep Learning](https://www.kaggle.com/learn/certification/vibhutigandhi/intro-to-deep-learning)
