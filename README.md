@@ -44,7 +44,7 @@ Conducted a comprehensive study on the performance of binary classification mode
 
 # 
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/3.png"> **[Analysis of Dow Jones Industrial Average Returns using ARIMA](https://github.com/GanVib18/Analysis-of-Dow-Jones-Industrial-Average-Returns-using-ARIMA)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/3.png"> **[Time-Series Analysis of Dow Jones Industrial Average Returns](https://github.com/GanVib18/Analysis-of-Dow-Jones-Industrial-Average-Returns-using-ARIMA)**
  
 Utilized time series ARIMA models, following the Box-Jenkins methodology, to analyze and forecast Dow Jones Industrial Average stock price returns. The project addressed key concepts such as volatility clustering, heteroskedasticity, and mean reversion.
 
@@ -56,7 +56,7 @@ Utilized Microsoft Azure (Synapse Analytics) and MySQL in conjunction with Power
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/5.jpg"> **[Vancouver Weather Forecast using Neural Prophet](https://www.kaggle.com/code/vibhutigandhi/vancouver-weather-forecast-using-neural-prophet/notebook)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/5.jpg"> **[Vancouver Weather Forecast](https://www.kaggle.com/code/vibhutigandhi/vancouver-weather-forecast-using-neural-prophet/notebook)**
 
 Participated in a Kaggle data challenge leveraging Meta AI's deep learning Neural Prophet model in Python with the PyTorch library. Achieved up to 78% forecast accuracy for Vancouver's weather by incorporating daily, weekly, and monthly seasonality trends from eighty years of Canadian climate data.
 
