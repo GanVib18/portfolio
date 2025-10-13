@@ -2,19 +2,36 @@
 
 ## Education
 
-**Bachelor of Science: Data Science @ Simon Fraser University (Sep 2020 – Apr 2025)**
+**Bachelor of Science: Data Science @ Simon Fraser University (Sep 2020 – Dec 2025)**
 
-**Relevant Coursework:** Object Oriented Programming, Applied Multivariate Analysis, Sampling and Experimental Design, Statistical Learning and Prediction, Artificial Intelligence, Time Series Analysis, Object Oriented Programming, Database Systems, Linear Optimization
+**Relevant Coursework:** Object Oriented Programming, Applied Multivariate Analysis, Sampling and Experimental Design, Statistical Learning and Prediction, Bayesian Statistics, Artificial Intelligence, Time Series Analysis, Object Oriented Programming, Database Systems, Linear Optimization
 
 ## Skills
 
 **Languages:** Python, R, SQL, C, C++, MATLAB
 
-**Tools:** Jupyter, RStudio, MySQL, PostgreSQL, Git, PyTorch, PySpark, TensorFlow, Keras, LangChain, Hugging Face, Microsoft Azure, Power BI
+**ML/AI Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM, LangChain, Hugging Face Transformers
 
-**Domains:** Statistical Modelling, Data mining, Feature Engineering, Machine Learning: Regression/ Clustering/ Classification, Deep Learning, Reinforcement Learning, Neural Networks, Time-Series Analysis, Natural Language Processing, Generative AI
+**Data & Cloud Platforms:** Microsoft Azure, PySpark, Databricks, Power BI, DAX, Oracle, MySQL, PostgreSQL
+
+**MLOps & Deployment:** Model Deployment & Monitoring, CI/CD Pipelines, DataIku, Databricks, Azure ML Studio, Amazon Web Services, Git/GitHub, Docker
+
+**Core Competencies:** Statistical Modeling, Predictive Analytics, Customer Segmentation, Customer Lifetime Value (CLV), Feature Engineering, A/B Testing, Time-Series Forecasting, Exploratory Data Analysis
+
+**Advanced ML:** Deep Learning (CNNs, RNNs, GNNs), Natural Language Processing, Generative AI, Computer Vision, Geospatial Analysis, Reinforcement Learning, Ensemble Methods, Bayesian Modeling, Transfer Learning, Hyperparameter Optimization
+
+**Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Streamlit
+
+**Collaboration:** Technical Documentation, Stakeholder Management, Agile/Scrum, Cross-functional Leadership
 
 ## Work Experience
+
+**Data Scientist (Retained Part-Time Consultant) @ British Columbia Lottery Corporation (Jan 2025 – Nov 2025)**
+
+- Spearheaded BCLC's Advanced Analytics transformation, leading end-to-end development and enterprise-wide deployment of critical data science solutions.
+- Led development and deployment of a player segmentation model adopted division-wide, optimizing resource allocation and driving documented increases in targeted marketing; solution was endorsed by Senior Leadership.
+- Co-developed a Customer Lifetime Value (CLV) predictive model achieving 20%+ improvement in revenue forecasting accuracy, contributing to multi-million-dollar efficiency gains.
+- Served as a thought leader in the AI & Data Science Community of Practice (COP), publishing articles and presenting to champion ML adoption across the business.
 
 **Data Science Research Assistant @ SFU MAGPIE group (Jan 2023 – Dec 2023)**
 
