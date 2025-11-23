@@ -53,15 +53,10 @@
 
 Built and evaluated three GNN architectures (PointNet, GCN, GGS-NN) for classifying point cloud data with integrated explainability analysis, providing insights into model decision-making processes that enable more trustworthy AI systems for geometric and protein network applications.
 
-#
-
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/1.png"> **[Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App)**
-
-Developed a Python-based Wikipedia Summarizer app hosted on Streamlit by leveraging NLP techniques and the Google Flan-T5 XXL model. This tool delivers concise and detailed summaries of Wikipedia articles, enhancing information accessibility and facilitating efficient knowledge acquisition via RAG framework.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/2.jpg"> **[Diabetes Prediction](https://github.com/GanVib18/Diabetes-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/2.jpg"> **[Comparative Analysis of Binary Classification Models for Diabetes Prediction](https://github.com/GanVib18/Diabetes-Prediction)**
 
 Conducted a comprehensive study on the performance of binary classification models and Support Vector Machines using the Pima Indians Diabetes dataset. Developed, fine-tuned, and evaluated predictive models, including Logistic Regression, K-Nearest Neighbors (KNN), Linear Discriminant Analysis (LDA), and Support Vector Machines (SVM) with an RBF kernel.
 
@@ -70,6 +65,12 @@ Conducted a comprehensive study on the performance of binary classification mode
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/3.png"> **[Time-Series Analysis of Dow Jones Industrial Average Returns](https://github.com/GanVib18/Analysis-of-Dow-Jones-Industrial-Average-Returns-using-ARIMA)**
  
 Utilized time series ARIMA models, following the Box-Jenkins methodology, to analyze and forecast Dow Jones Industrial Average stock price returns. The project addressed key concepts such as volatility clustering, heteroskedasticity, and mean reversion.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/1.png"> **[Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App)**
+
+Developed a Python-based Wikipedia Summarizer app hosted on Streamlit by leveraging NLP techniques and the Google Flan-T5 XXL model. This tool delivers concise and detailed summaries of Wikipedia articles, enhancing information accessibility and facilitating efficient knowledge acquisition via RAG framework.
 
 #
 
