@@ -29,8 +29,8 @@
 **Data Scientist (Retained Part-Time Consultant) @ British Columbia Lottery Corporation (Jan 2025 – Nov 2025)**
 
 - Spearheaded BCLC's Advanced Analytics transformation, leading end-to-end development and enterprise-wide deployment of critical data science solutions.
-- Led development and deployment of a player segmentation model adopted division-wide, optimizing resource allocation and driving documented increases in targeted marketing; solution was endorsed by Senior Leadership.
-- Co-developed a Customer Lifetime Value (CLV) predictive model achieving 20%+ improvement in revenue forecasting accuracy, contributing to multi-million-dollar efficiency gains.
+- Lead the development of behavioral Player Segmentation model utilizing Discrete Time Markov Chains; deployed to the Player Rewards program to identify $400k/week in incentive inefficiencies and reallocate capital.
+- Co-developed a Customer Lifetime Value (CLV) model that improved revenue forecasting accuracy by 20%; operationalized predictions via Snowflake, enabling CRM to optimize multi-million-dollar player journey budget.
 - Served as a thought leader in the AI & Data Science Community of Practice (COP), publishing articles and presenting to champion ML adoption across the business.
 
 **Data Science Research Assistant @ SFU MAGPIE group (Jan 2023 – Dec 2023)**
@@ -48,6 +48,12 @@
 - Collaborated with the policy team to identify and resolve data discrepancies, leading to a 15% reduction in reporting discrepancies and improved data reliability.
 
 ## Projects
+
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/9.jpg"> **[Explainable Graph Neural Networks for Protein Network Classification](https://github.com/GanVib18/Protein_GNN_Project)**
+
+Built and evaluated three GNN architectures (PointNet, GCN, GGS-NN) for classifying point cloud data with integrated explainability analysis, providing insights into model decision-making processes that enable more trustworthy AI systems for geometric and protein network applications.
+
+#
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/1.png"> **[Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App)**
 
