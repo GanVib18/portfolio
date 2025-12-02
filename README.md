@@ -56,7 +56,7 @@ Built and evaluated three GNN architectures (PointNet, GCN, GGS-NN) for classify
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/2.jpg"> **[Comparative Analysis of Binary Classification Models for Diabetes Prediction](https://github.com/GanVib18/Diabetes-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/2.jpg"> **[Evaluating Binary Classifiers and SVMs for Diabetes Prediction](https://github.com/GanVib18/Diabetes-Prediction)**
 
 Conducted a comprehensive study on the performance of binary classification models and Support Vector Machines using the Pima Indians Diabetes dataset. Developed, fine-tuned, and evaluated predictive models, including Logistic Regression, K-Nearest Neighbors (KNN), Linear Discriminant Analysis (LDA), and Support Vector Machines (SVM) with an RBF kernel.
 
@@ -76,7 +76,7 @@ Developed a Python-based Wikipedia Summarizer app hosted on Streamlit by leverag
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/4.png"> **[Bank Churn Analysis](https://github.com/GanVib18/Bank-Churn-Analysis/tree/main)**
 
-Utilized Microsoft Azure (Synapse Analytics) and MySQL in conjunction with Power BI to analyze customer churn over a four-year period. Implemented rigorous data cleaning, transformation, and modeling techniques to develop an interactive dashboard, providing actionable insights for improving customer retention strategies.
+Utilized Microsoft Azure (Synapse Analytics) and MySQL in conjunction with Power BI to analyze customer churn over a four-year period. Implemented rigorous data cleaning, transformation, and modeling techniques to develop an interactive dashboard, providing actionable insights into customer retention.
 
 #
 
