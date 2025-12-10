@@ -118,7 +118,9 @@ Coached and mentored participants in a project on word embeddings, utilizing ELM
 -  [Kaggle: Computer Vision](https://www.kaggle.com/learn/certification/vibhutigandhi/computer-vision)
 -  [Kaggle: Geospatial Analysis](https://www.kaggle.com/learn/certification/vibhutigandhi/geospatial-analysis)
 -  [DataIku: Core Designer](https://github.com/GanVib18/portfolio/blob/main/Documents/certificate-7kdyftxrzfkn-1736803601.pdf)
+-  [DataIku: Advanced Designer](https://github.com/GanVib18/portfolio/blob/main/Documents/document_1.pdf)
 -  [DataIku: Developer](https://github.com/GanVib18/portfolio/blob/main/Documents/certificate-kgogqocp8yda-1736977872.pdf)
 -  [DataIku: ML Practitioner](https://github.com/GanVib18/portfolio/blob/main/Documents/certificate-nbigh2m9xtet-1737492950.pdf)
+-  [DataIku: MLOps Practitioner](https://github.com/GanVib18/portfolio/blob/main/Documents/document_2.pdf)
 -  [DataIku: Generative AI Practitioner](https://github.com/GanVib18/portfolio/blob/main/Documents/certificate-xhdmexqosxoc-1737661517.pdf)
 
