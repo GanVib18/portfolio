@@ -51,7 +51,7 @@
 
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/10.jpg"> **[Multi-Agent NLP Analysis of TikTok Content](https://github.com/GanVib18/Tiktok-Analysis)**
 
-This project analyzes the "Sell-Out Effect" in the fitness niche of TikTok. By scraping and analyzing 2,500 videos from 25 creators. I developed a custom Authenticity Index and employed a Multi-Agent AI Architecture leveragingGemini-2.5-flash to determine how sponsorship alters linguistic patterns and how audiences react to those changes.
+This project analyzes the "Sell-Out Effect" in the fitness niche of TikTok. By scraping and analyzing 2,500 videos from 25 creators. I developed a custom Authenticity Index and employed a Multi-Agent AI Architecture leveraging LLMs (Gemini-2.5-flash) to determine how sponsorship alters linguistic patterns and how audiences react to those changes.
 
 #
 
