@@ -49,10 +49,15 @@
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/10.jpg"> **[Multi-Agent NLP Analysis of TikTok Content](https://github.com/GanVib18/Tiktok-Analysis)**
+
+Deployed multi-agent AI (Gemini-2.5) analyzing TikTok linguistic patterns; revealed that emotional triggers drive 23% higher engagement, enabling data-driven influencer campaign optimization.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/9.jpg"> **[Explainable Graph Neural Networks for Protein Network Classification](https://github.com/GanVib18/Protein_GNN_Project)**
 
 Built and evaluated three GNN architectures (PointNet, GCN, GGS-NN) for classifying point cloud data with integrated explainability analysis, providing insights into model decision-making processes that enable more trustworthy AI systems for geometric and protein network applications.
-
 
 #
 
