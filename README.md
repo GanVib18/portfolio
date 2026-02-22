@@ -56,7 +56,7 @@ Built a full-stack MMM pipeline for a fictional outdoor apparel brand across fiv
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/11.png"> **[Regime-Switching Portfolio Optimisation with Hidden Markov Models
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/11.jpg"> **[Regime-Switching Portfolio Optimisation with Hidden Markov Models
 ](https://github.com/GanVib18/Regime-Switching-Asset-Allocation)**
 
 Built a three-regime market detection system using a Gaussian HMM on ten engineered features (realised volatility, momentum, credit spread proxy, and yield curve slope), combined with Ledoit-Wolf shrinkage mean-variance optimisation and walk-forward validation across four out-of-sample periods — achieving a Sharpe ratio of 1.27 versus 0.88 for a 60/40 benchmark and outperforming in three of four test periods using Canadian ETFs.
