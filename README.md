@@ -49,14 +49,14 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/12.jpg"> **[Bayesian Media Mix Modelling for Global Marketing Attribution
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/12.png"> **[Bayesian Media Mix Modelling for Global Marketing Attribution
 ](https://github.com/GanVib18/Bayesian-Media-Mix-Model)**
 
 Built a full-stack MMM pipeline for a fictional outdoor apparel brand across five markets, generating synthetic data with known ground truth, implementing geometric adstock and Hill saturation transformations, and fitting a hierarchical Bayesian model in PyMC to decompose revenue by channel — culminating in a SciPy budget optimiser that identified a consistent reallocation from Social to Paid Search yielding 8–15% weekly revenue uplift across all regions.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/11.jpg"> **[Regime-Switching Portfolio Optimisation with Hidden Markov Models
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/11.png"> **[Regime-Switching Portfolio Optimisation with Hidden Markov Models
 ](https://github.com/GanVib18/Regime-Switching-Asset-Allocation)**
 
 Built a three-regime market detection system using a Gaussian HMM on ten engineered features (realised volatility, momentum, credit spread proxy, and yield curve slope), combined with Ledoit-Wolf shrinkage mean-variance optimisation and walk-forward validation across four out-of-sample periods — achieving a Sharpe ratio of 1.27 versus 0.88 for a 60/40 benchmark and outperforming in three of four test periods using Canadian ETFs.
