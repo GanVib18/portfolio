@@ -49,9 +49,29 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/Tiktok-Algorithm.jpg"> **[Multi-Agent NLP Analysis of TikTok Content](https://github.com/GanVib18/Tiktok-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/12.jpg"> **[Bayesian Media Mix Modelling for Global Marketing Attribution
+](https://github.com/GanVib18/Bayesian-Media-Mix-Model)**
+
+Built a full-stack MMM pipeline for a fictional outdoor apparel brand across five markets, generating synthetic data with known ground truth, implementing geometric adstock and Hill saturation transformations, and fitting a hierarchical Bayesian model in PyMC to decompose revenue by channel — culminating in a SciPy budget optimiser that identified a consistent reallocation from Social to Paid Search yielding 8–15% weekly revenue uplift across all regions.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/11.jpg"> **[Regime-Switching Portfolio Optimisation with Hidden Markov Models
+](https://github.com/GanVib18/Regime-Switching-Asset-Allocation)**
+
+Built a three-regime market detection system using a Gaussian HMM on ten engineered features (realised volatility, momentum, credit spread proxy, and yield curve slope), combined with Ledoit-Wolf shrinkage mean-variance optimisation and walk-forward validation across four out-of-sample periods — achieving a Sharpe ratio of 1.27 versus 0.88 for a 60/40 benchmark and outperforming in three of four test periods using Canadian ETFs.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/10.jpg"> **[Multi-Agent NLP Analysis of TikTok Content](https://github.com/GanVib18/Tiktok-Analysis)**
 
 Scraped and analyzed 2,500 videos from 25 creators. Developed a custom Authenticity Index and employed a Multi-Agent AI Architecture leveraging LLMs (Gemini-2.5-flash) to determine how sponsorship alters linguistic patterns and how audiences react to those changes.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/6.jpg"> **[HACKATHON WINNER: Canada's CPI during Pandemic](https://github.com/Vancouver-Datajam/CPI/)** 
+
+Performed descriptive time series analysis and implemented an ARIMA model to forecast inflation in Canada with 92% accuracy. Utilized Python for machine learning and data visualization, achieving a 1st place ranking in the competition and delivering actionable insights into consumer trends and price dynamics during crises. [VIDEO](https://www.youtube.com/watch?v=av6l6yLJ8q0)
 
 #
 
@@ -88,12 +108,6 @@ Utilized Microsoft Azure (Synapse Analytics) and MySQL in conjunction with Power
 <img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/5.jpg"> **[Vancouver Weather Forecast](https://www.kaggle.com/code/vibhutigandhi/vancouver-weather-forecast-using-neural-prophet/notebook)**
 
 Participated in a Kaggle data challenge leveraging Meta AI's deep learning Neural Prophet model in Python with the PyTorch library. Achieved up to 78% forecast accuracy for Vancouver's weather by incorporating daily, weekly, and monthly seasonality trends from eighty years of Canadian climate data.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/6.jpg"> **[HACKATHON WINNER: Canada's CPI during Pandemic](https://github.com/Vancouver-Datajam/CPI/)** 
-
-Performed descriptive time series analysis and implemented an ARIMA model to forecast inflation in Canada with 92% accuracy. Utilized Python for machine learning and data visualization, achieving a 1st place ranking in the competition and delivering actionable insights into consumer trends and price dynamics during crises. [VIDEO](https://www.youtube.com/watch?v=av6l6yLJ8q0)
 
 ## Workshops & Mentorship
 
