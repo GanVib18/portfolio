@@ -3,7 +3,7 @@
 
 > I build production-grade data science systems — from Bayesian models and LLM pipelines to enterprise CLV engines — that move real dollars and drive real decisions.
 
-📍 Vancouver, BC &nbsp;|&nbsp; 🎓 B.Sc. Data Science, Simon Fraser University &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/vibhuti-gandhi/) &nbsp;|&nbsp; 📧 [Email](gandhivibhuti1802@gmail.com)
+📍 Vancouver, BC &nbsp;|&nbsp; 🎓 B.Sc. Data Science, Simon Fraser University &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/vibhuti-gandhi/) &nbsp;|&nbsp; 📧 Email: gandhivibhuti1802@gmail.com
 
 ---
 
