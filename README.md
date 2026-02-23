@@ -9,8 +9,8 @@
 
 ## 💼 Experience
 
-### Data Scientist (Part-Time Consultant) — British Columbia Lottery Corporation
-*Jan 2025 – Nov 2025*
+### Data Scientist (Co-op → Full-Time Contract) — British Columbia Lottery Corporation
+*Jan 2025 – Present*
 
 Led end-to-end development and enterprise-wide deployment of advanced analytics solutions at BCLC's Advanced Analytics division.
 
