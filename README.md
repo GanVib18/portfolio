@@ -95,7 +95,7 @@ Implemented an ARIMA model to forecast Canadian inflation with **92% accuracy** 
 
 **BSc Data Science — Simon Fraser University** *(Sep 2020 – Dec 2025)*
 
-Relevant coursework: Statistical Learning & Prediction · Bayesian Statistics · Time Series Analysis · Artificial Intelligence · Database Systems · Applied Multivariate Analysis · Linear Optimization · Sampling & Experimental Design
+**Relevant Coursework:** Object Oriented Programming, Applied Multivariate Analysis, Sampling and Experimental Design, Statistical Learning and Prediction, Bayesian Statistics, Artificial Intelligence, Time Series Analysis, Object Oriented Programming, Database Systems, Linear Optimization
 
 ---
 
