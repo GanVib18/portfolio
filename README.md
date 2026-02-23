@@ -3,7 +3,7 @@
 
 > I build production-grade data science systems — from Bayesian models and LLM pipelines to enterprise CLV engines — that move real dollars and drive real decisions.
 
-📍 Vancouver, BC &nbsp;|&nbsp; 🎓 BSc Data Science, Simon Fraser University (Dec 2025) &nbsp;|&nbsp; 🔗 [LinkedIn](#) &nbsp;|&nbsp; 📧 [Email](#)
+📍 Vancouver, BC &nbsp;|&nbsp; 🎓 BSc Data Science, Simon Fraser University (Dec 2025) &nbsp;|&nbsp; 🔗 [LinkedIn](#https://www.linkedin.com/in/vibhuti-gandhi/) &nbsp;|&nbsp; 📧 [Email](#gandhivibhuti1802@gmail.com)
 
 ---
 
@@ -117,5 +117,3 @@ Relevant coursework: Statistical Learning & Prediction · Bayesian Statistics ·
 - **Mentor:** [Word Embeddings (ELMo & BERT)](https://github.com/Vancouver-Datajam/Word-Embeddings) — coached participants on contextual vector representations applied to climate and disaster event analysis.
 
 ---
-
-*Open to full-time Data Scientist and ML Engineer roles. Feel free to reach out!*
