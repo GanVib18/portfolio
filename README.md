@@ -22,7 +22,7 @@ Led end-to-end development and enterprise-wide deployment of advanced analytics 
 *Jan 2023 – Dec 2023*
 
 - Built a multi-source COVID-19 dataset spanning 130+ metrics; applied ML (random forest, gradient boosting, hierarchical clustering) to model Omicron variant evolution.
-- Presented findings at the **31st International Dynamics & Evolution of Human Viruses** conference; contributed to an upcoming publication.
+- Co-authored research on [COVID-19 variant dynamics](https://www.medrxiv.org/content/10.1101/2025.09.16.25335896v1); findings were presented at the **31st International Dynamics & Evolution of Human Viruses** conference.
 
 ### Data Analyst Co-op — BC Public Service: Ministry of Health
 *Jan 2023 – Apr 2023*
