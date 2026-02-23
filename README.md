@@ -49,7 +49,7 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/12.png"> **[Bayesian Media Mix Modelling for Global Marketing Attribution
+<img align="left" width="250" height="150" src="https://github.com/GanVib18/portfolio/blob/main/Images/13.png"> **[Bayesian Media Mix Modelling for Global Marketing Attribution
 ](https://github.com/GanVib18/Bayesian-Media-Mix-Model)**
 
 Built a full-stack MMM pipeline for a fictional outdoor apparel brand across five markets, generating synthetic data with known ground truth, implementing geometric adstock and Hill saturation transformations, and fitting a hierarchical Bayesian model in PyMC to decompose revenue by channel — culminating in a SciPy budget optimiser that identified a consistent reallocation from Social to Paid Search yielding 8–15% weekly revenue uplift across all regions.
