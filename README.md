@@ -24,7 +24,7 @@ Led end-to-end development and enterprise-wide deployment of advanced analytics 
 - Built a multi-source COVID-19 dataset spanning 130+ metrics; applied ML (random forest, gradient boosting, hierarchical clustering) to model Omicron variant evolution.
 - Presented findings at the **31st International Dynamics & Evolution of Human Viruses** conference; contributed to an upcoming publication.
 
-### Data Analyst — BC Public Service: Ministry of Health
+### Data Analyst Co-op — BC Public Service: Ministry of Health
 *Jan 2023 – Apr 2023*
 
 - Built Oracle-to-Power BI data pipelines for real-time physician shift reporting; created dynamic dashboards with drill-down maps and time-series charts.
