@@ -3,7 +3,7 @@
 
 > I build production-grade data science systems — from Bayesian models and LLM pipelines to enterprise CLV engines — that move real dollars and drive real decisions.
 
-📍 Vancouver, BC &nbsp;|&nbsp; 🎓 BSc Data Science, Simon Fraser University (Dec 2025) &nbsp;|&nbsp; 🔗 [LinkedIn](#https://www.linkedin.com/in/vibhuti-gandhi/) &nbsp;|&nbsp; 📧 [Email](#gandhivibhuti1802@gmail.com)
+📍 Vancouver, BC &nbsp;|&nbsp; 🎓 B.Sc. Data Science, Simon Fraser University &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/vibhuti-gandhi/) &nbsp;|&nbsp; 📧 [Email](gandhivibhuti1802@gmail.com)
 
 ---
 
@@ -35,14 +35,14 @@ Led end-to-end development and enterprise-wide deployment of advanced analytics 
 ## 🚀 Featured Projects
 
 ### [Bayesian Media Mix Modelling for Global Marketing Attribution](https://github.com/GanVib18/Bayesian-Media-Mix-Model)
-`PyMC` `Bayesian Inference` `SciPy Optimisation` `Hierarchical Modelling`
+`PyMC` `Bayesian Inference` `SciPy Optimisation` `Hierarchical Modelling` · [▶ Read the Article](https://medium.com/@gandhivibhuti1802/building-a-bayesian-media-mix-model-from-scratch-af14a2e4485b)
 
 Built a full-stack MMM pipeline for a fictional outdoor apparel brand across five markets. Generated synthetic data with known ground truth, applied geometric adstock and Hill saturation transformations, and fit a hierarchical Bayesian model to decompose revenue by channel. A SciPy budget optimizer identified a consistent reallocation from Social → Paid Search yielding an **8–15% weekly revenue uplift** across all regions.
 
 ---
 
 ### [Regime-Switching Portfolio Optimisation with Hidden Markov Models](https://github.com/GanVib18/Regime-Switching-Asset-Allocation)
-`Gaussian HMM` `Ledoit-Wolf Shrinkage` `Walk-Forward Validation` `Canadian ETFs`
+`Gaussian HMM` `Ledoit-Wolf Shrinkage` `Walk-Forward Validation` `Canadian ETFs` · [▶ Read the Article](https://medium.com/@gandhivibhuti1802/smarter-than-60-40-building-a-regime-switching-portfolio-with-machine-learning-b6c1172b84f5)
 
 Built a three-regime market detection system using a Gaussian HMM on 10 engineered features (realized volatility, momentum, credit spread proxy, yield curve slope), combined with mean-variance optimization. Achieved a **Sharpe ratio of 1.27 vs. 0.88** for a 60/40 benchmark, outperforming in 3 of 4 out-of-sample test periods.
 
