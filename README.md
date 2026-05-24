@@ -48,10 +48,10 @@ Built a three-regime market detection system using a Gaussian HMM on 10 engineer
 
 ---
 
-### [Multi-Agent NLP Analysis of TikTok Content](https://github.com/GanVib18/Tiktok-Analysis)
-`LLMs` `Gemini-2.5-flash` `Multi-Agent Architecture` `NLP`
+### [StatQL: Statistically Validated Data Analytics Agent](https://github.com/GanVib18/StatQL_Agent/)
+`LangGraph` `DuckDB` `FAISS` `FastAPI` · [▶ Read the Article](https://medium.com/@gandhivibhuti1802/statistical-validation-in-llm-powered-analytics-agents-5e28d958653b)
 
-Scraped and analyzed 2,500 videos from 25 creators. Developed a custom **Authenticity Index** and deployed a multi-agent LLM architecture (Gemini-2.5-flash) to quantify how sponsorship alters linguistic patterns and how audiences respond to those changes.
+Engineered an open-source Text-to-SQL AI agent featuring a dedicated Statistical Validation Layer that automatically computes confidence intervals, t-tests, and linear regressions on query results to eliminate LLM metric hallucinations. Integrated a high-performance semantic cache using FAISS and DuckDB, achieving a **93.3% warm hit rate and a 95.6% reduction in API latency** on a 540k-row retail dataset.
 
 ---
 
@@ -72,6 +72,7 @@ Implemented an ARIMA model to forecast Canadian inflation with **92% accuracy** 
 | [Bank Churn Analysis](https://github.com/GanVib18/Bank-Churn-Analysis/tree/main) | Azure Synapse, MySQL, Power BI | Interactive 4-year churn dashboard |
 | [Vancouver Weather Forecast](https://www.kaggle.com/code/vibhutigandhi/vancouver-weather-forecast-using-neural-prophet/notebook) | Neural Prophet, PyTorch | 78% accuracy using 80 years of climate data |
 | [Wikipedia Summarizer GPT App](https://github.com/GanVib18/Wikipedia-Summarizer-GPT-App) | RAG, Flan-T5 XXL, Streamlit | End-to-end NLP app hosted on Streamlit |
+| [Multi-Agent NLP Analysis of TikTok Content](https://github.com/GanVib18/Tiktok-Analysis) | VADER, Empath, Gemini-2.5-flash, MLM | Custom AI-agent architecture to quantify the "Sell-Out Effect" on 2,500 TikTok Videos |
 
 ---
 
