@@ -32,6 +32,7 @@ I build production-grade data science systems — from Bayesian models and LLM p
 ## Projects
 
 **[Bayesian Media Mix Modelling for Global Marketing Attribution](https://github.com/GanVib18/Bayesian-Media-Mix-Model)** · [Article](https://medium.com/@gandhivibhuti1802/building-a-bayesian-media-mix-model-from-scratch-af14a2e4485b)
+
 `PyMC` `Bayesian Inference` `Hierarchical Modelling` `SciPy Optimisation`
 
 Full-stack MMM pipeline for a fictional outdoor apparel brand across five markets. Applied geometric adstock and Hill saturation transformations, fit a hierarchical Bayesian model to decompose revenue by channel, and ran a SciPy budget optimizer that identified an **8–15% weekly revenue uplift** opportunity via reallocation from Social to Paid Search.
@@ -39,6 +40,7 @@ Full-stack MMM pipeline for a fictional outdoor apparel brand across five market
 ---
 
 **[Regime-Switching Portfolio Optimisation with Hidden Markov Models](https://github.com/GanVib18/Regime-Switching-Asset-Allocation)** · [Article](https://medium.com/@gandhivibhuti1802/smarter-than-60-40-building-a-regime-switching-portfolio-with-machine-learning-b6c1172b84f5)
+
 `Gaussian HMM` `Ledoit-Wolf Shrinkage` `Walk-Forward Validation` `Canadian ETFs`
 
 Three-regime market detection system using a Gaussian HMM on 10 engineered features (realized volatility, momentum, credit spread proxy, yield curve slope), combined with mean-variance optimization. Achieved a **Sharpe ratio of 1.27 vs. 0.88** for a 60/40 benchmark, outperforming in 3 of 4 out-of-sample test periods (2015–2025).
@@ -46,6 +48,7 @@ Three-regime market detection system using a Gaussian HMM on 10 engineered featu
 ---
 
 **[StatQL: Statistically Validated Text-to-SQL Agent](https://github.com/GanVib18/StatQL_Agent/)** · [Article](https://medium.com/@gandhivibhuti1802/statistical-validation-in-llm-powered-analytics-agents-5e28d958653b)
+
 `LangGraph` `DuckDB` `FAISS` `FastAPI`
 
 Open-source Text-to-SQL agent with a dedicated Statistical Validation Layer that automatically computes confidence intervals, t-tests, and regressions on query results to eliminate LLM hallucinations. FAISS + DuckDB semantic cache achieved a **93.3% warm hit rate and 95.6% reduction in API latency** on a 540K-row retail dataset.
@@ -53,6 +56,7 @@ Open-source Text-to-SQL agent with a dedicated Statistical Validation Layer that
 ---
 
 **[🏆 Hackathon Winner: Forecasting Canada's CPI During the Pandemic](https://github.com/Vancouver-Datajam/CPI/)** · [Video](https://www.youtube.com/watch?v=av6l6yLJ8q0)
+
 `ARIMA` `Box-Jenkins` `Time-Series`
 
 Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA — earning **1st place** (10 teams) at Vancouver Datajam. Delivered policy implications to a panel of industry judges.
