@@ -11,16 +11,15 @@ I build production-grade data science systems — from Bayesian models and LLM p
 
 **Data Scientist — British Columbia Lottery Corporation** *(Jan 2025 – Present)*
 
-- Developed a Discrete-Time Markov Chain segmentation model deployed to the Player Rewards program, identifying **$400K/week in incentive inefficiencies** and enabling capital reallocation.
-- Co-built a CLV model improving revenue forecast accuracy by **20%**; operationalized via Snowflake to optimize multi-million-dollar player journey spend.
-- Built a Player Trajectory Management system (XGBoost, 0.85 R²) predicting behavioral shifts for 250K+ players; automated weekly sync of risk profiles from Snowflake to Salesforce CDP.
-- Reduced model pipeline failures by **30%** through statistical drift monitoring, validation checks, and peer-review gates.
-- Active contributor to the company-wide AI & Data Science Community of Practice — publishing articles and presenting to champion ML adoption.
+- Drove **$1M+ incremental revenue** deploying a Markov-based segmentation model via PySpark pipelines in Dataiku to personalize retention campaigns across **600K+ players**.
+- Engineered a CLV model lifting player value forecast accuracy by **20%**; presented insights to Directors of Marketing and Analytics, driving optimization of multi-million-dollar marketing spend.
+- Built a Player Trajectory Management system (XGBoost, 0.85 R² CV) predicting behavioral shifts for **250K+ players**; automated weekly sync of player risk profiles from Snowflake to Salesforce CDP and CRM.
+- Cut model pipeline failures by **30%** through validation checks, statistical drift monitoring, and peer-review gates, reducing downtime for consumer-facing marketing campaigns.
 
 **Research Assistant — SFU MAGPIE Group** *(Jan 2023 – Dec 2023)*
 
-- Built a multi-source COVID-19 dataset spanning 130+ features; applied Random Forest, gradient boosting, and hierarchical clustering to model Omicron variant dynamics.
-- Achieved **91% directional accuracy** predicting wave size using leave-one-out cross-validation on 113 epidemiological and genomic features.
+- Modeled COVID-19 Omicron wave dynamics in Databricks using ensemble and clustering methods, revealing distinct feature importance shifts between BA.1 and BA.2 variants to inform outbreak forecasting.
+- Achieved **91% directional accuracy** predicting Omicron wave size using Random Forest with leave-one-out cross-validation on 113 epidemiological and genomic features.
 - Co-authored [research on COVID-19 variant dynamics](https://www.medrxiv.org/content/10.1101/2025.09.16.25335896v1) presented at the **31st International Dynamics & Evolution of Human Viruses Conference (2024)**.
 
 **Data Analyst Co-op — BC Public Service, Ministry of Health** *(Jan 2023 – Apr 2023)*
@@ -76,17 +75,15 @@ Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA �
 
 ## Skills
 
-**Languages:** Python · R · SQL · C · C++ · MATLAB
+**Languages:** Python · R · SQL · MATLAB
 
-**ML / AI:** PyTorch · TensorFlow · Scikit-learn · XGBoost · LightGBM · LangChain · Hugging Face · PyMC
+**ML / AI:** PyTorch · Scikit-learn · XGBoost · PyMC · Probabilistic Modelling · Markov Chains · Time Series
 
-**Specializations:** Bayesian Modelling · Time-Series Forecasting · NLP & Generative AI · Deep Learning (CNNs, RNNs, GNNs) · Customer Segmentation · CLV · A/B Testing · Geospatial Analysis
+**AI Engineering & MLOps:** RAG · LangGraph · LangChain · FAISS · FastAPI · Docker · AWS SageMaker · Azure ML · CI/CD · Git · Model Monitoring · Dataiku
 
-**Data & Cloud:** Azure · AWS · Databricks · PySpark · Snowflake · Oracle · PostgreSQL · MySQL
+**Data & Cloud:** Snowflake · Oracle · Databricks · PySpark · Power BI · A/B Testing
 
-**MLOps:** CI/CD · Docker · Azure ML Studio · Dataiku · Git · Model Monitoring
-
-**Visualization:** Power BI · Tableau · Plotly · Streamlit · Seaborn
+**Visualization:** Power BI · Plotly · Streamlit · Seaborn
 
 ---
 
