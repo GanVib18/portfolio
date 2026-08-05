@@ -3,7 +3,7 @@
 
 Vancouver, BC · [LinkedIn](https://www.linkedin.com/in/vibhuti-gandhi/) · [GitHub](https://github.com/GanVib18) · gandhivibhuti1802@gmail.com
 
-I build production-grade data science systems — from Bayesian models and LLM pipelines to enterprise CLV engines — that move real dollars and drive real decisions.
+Data Scientist specializing in behavioral modeling, Bayesian inference, and ML deployment at scale. 3+ years of ML experience across research and production, with a track record of building models that directly drive revenue outcomes. Experienced across the full ML lifecycle: from experimentation and statistical validation to Snowflake integrated deployment and drift monitoring.
 
 ---
 
