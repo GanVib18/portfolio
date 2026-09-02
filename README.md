@@ -152,5 +152,3 @@ Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA â€
 - **Mentor** â€” [Word Embeddings (ELMo & BERT)](https://github.com/Vancouver-Datajam/Word-Embeddings): coached participants on contextual vector representations applied to climate and disaster event analysis.
 
 ---
-
-<p align="center"><i>Open to Data Scientist / ML Engineer roles across British Columbia.</i></p>
