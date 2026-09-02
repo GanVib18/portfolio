@@ -46,19 +46,27 @@ validation to Snowflake-integrated deployment and drift monitoring.
 ## Featured Projects
 
 **[Bayesian Media Mix Modeling for Global Marketing Attribution](https://github.com/GanVib18/Bayesian-Media-Mix-Model)** &nbsp;·&nbsp; [Article](https://medium.com/@gandhivibhuti1802/building-a-bayesian-media-mix-model-from-scratch-af14a2e4485b)
+
 `PyMC` `Bayesian Inference` `Hierarchical Modeling` `SciPy Optimization`
+
 Full-stack MMM pipeline for a fictional outdoor apparel brand across five markets. Applied geometric adstock and Hill saturation transformations, fit a hierarchical Bayesian model to decompose revenue by channel, and ran a SciPy budget optimizer that identified an **8–15% weekly revenue uplift** opportunity via reallocation from Social to Paid Search.
 
 **[Regime-Switching Portfolio Optimization with Hidden Markov Models](https://github.com/GanVib18/Regime-Switching-Asset-Allocation)** &nbsp;·&nbsp; [Article](https://medium.com/@gandhivibhuti1802/smarter-than-60-40-building-a-regime-switching-portfolio-with-machine-learning-b6c1172b84f5)
+
 `Gaussian HMM` `Ledoit-Wolf Shrinkage` `Walk-Forward Validation` `Canadian ETFs`
+
 Three-regime market detection system using a Gaussian HMM on 10 engineered features (realized volatility, momentum, credit spread proxy, yield curve slope), combined with mean-variance optimization. Achieved a **Sharpe ratio of 1.27 vs. 0.88** for a 60/40 benchmark, outperforming in 3 of 4 out-of-sample test periods (2015–2025).
 
 **[StatQL: Statistically Validated Text-to-SQL Agent](https://github.com/GanVib18/StatQL_Agent/)** &nbsp;·&nbsp; [Article](https://medium.com/@gandhivibhuti1802/statistical-validation-in-llm-powered-analytics-agents-5e28d958653b)
+
 `LangGraph` `DuckDB` `FAISS` `FastAPI`
+
 Open-source Text-to-SQL agent with a dedicated statistical validation layer that computes confidence intervals, t-tests, and regressions on query results to reduce LLM hallucinations. FAISS + DuckDB semantic cache achieved a **93.3% warm hit rate** and **95.6% reduction in API latency** on a 540K-row retail dataset.
 
 **[🏆 Hackathon Winner — Forecasting Canada's CPI During the Pandemic](https://github.com/Vancouver-Datajam/CPI/)** &nbsp;·&nbsp; [Video](https://www.youtube.com/watch?v=av6l6yLJ8q0)
+
 `ARIMA` `Box-Jenkins` `Time Series`
+
 Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA — **1st place** among 10 teams at Vancouver Datajam, with policy implications presented to a panel of industry judges.
 
 <details>
