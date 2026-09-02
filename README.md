@@ -11,7 +11,7 @@
 <p align="center">
 Data Scientist specializing in behavioral modeling, Bayesian inference, and ML deployment at scale.
 3+ years of experience across research and production, with a track record of shipping models that
-directly move revenue. Comfortable across the full ML lifecycle — from experimentation and statistical
+directly move revenue. Comfortable across the full ML lifecycle, from experimentation and statistical
 validation to Snowflake-integrated deployment and drift monitoring.
 </p>
 
@@ -19,7 +19,7 @@ validation to Snowflake-integrated deployment and drift monitoring.
 
 ## Experience
 
-### Data Scientist — British Columbia Lottery Corporation
+### Data Scientist @ British Columbia Lottery Corporation
 *Jan 2025 – Present*
 
 - Drove **$1M+ incremental revenue** by deploying a Markov-based segmentation model (PySpark, Dataiku) to personalize retention campaigns across **600K+ players**.
@@ -28,14 +28,14 @@ validation to Snowflake-integrated deployment and drift monitoring.
 - Developed a Player Trajectory Management system (XGBoost, 0.85 R² CV) predicting behavioral shifts for **250K+ players**, with automated weekly sync of risk profiles from Snowflake to Salesforce CDP/CRM.
 - Reduced model pipeline failures by **30%** through automated validation, statistical drift monitoring, and peer-review gates.
 
-### Research Assistant — SFU MAGPIE Group
+### Research Assistant @ SFU MAGPIE Group
 *Jan 2023 – Dec 2023*
 
 - Modeled COVID-19 Omicron wave dynamics in Databricks using ensemble and clustering methods, uncovering distinct feature-importance shifts between the BA.1 and BA.2 variants.
 - Achieved **91% directional accuracy** predicting Omicron wave size with a Random Forest model (leave-one-out CV) across 113 epidemiological and genomic features.
 - Co-authored [research on COVID-19 variant dynamics](https://www.medrxiv.org/content/10.1101/2025.09.16.25335896v1), presented at the **31st International Dynamics & Evolution of Human Viruses Conference (2024)**.
 
-### Data Analyst Co-op — BC Public Service, Ministry of Health
+### Data Analyst Co-op @ BC Public Service, Ministry of Health
 *Jan 2023 – Apr 2023*
 
 - Cut physician shift-report generation from 2 days to 15 minutes by building Oracle-to-Power BI pipelines; dashboards adopted by 20+ health administrators.
@@ -63,11 +63,11 @@ Three-regime market detection system using a Gaussian HMM on 10 engineered featu
 
 Open-source Text-to-SQL agent with a dedicated statistical validation layer that computes confidence intervals, t-tests, and regressions on query results to reduce LLM hallucinations. FAISS + DuckDB semantic cache achieved a **93.3% warm hit rate** and **95.6% reduction in API latency** on a 540K-row retail dataset.
 
-**[🏆 Hackathon Winner — Forecasting Canada's CPI During the Pandemic](https://github.com/Vancouver-Datajam/CPI/)** &nbsp;·&nbsp; [Video](https://www.youtube.com/watch?v=av6l6yLJ8q0)
+**[🏆 Hackathon Winner: Forecasting Canada's CPI During the Pandemic](https://github.com/Vancouver-Datajam/CPI/)** &nbsp;·&nbsp; [Video](https://www.youtube.com/watch?v=av6l6yLJ8q0)
 
 `ARIMA` `Box-Jenkins` `Time Series`
 
-Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA — **1st place** among 10 teams at Vancouver Datajam, with policy implications presented to a panel of industry judges.
+Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA: **1st place** among 10 teams at Vancouver Datajam, with policy implications presented to a panel of industry judges.
 
 <details>
 <summary><b>More Projects</b></summary>
@@ -101,7 +101,7 @@ Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA �
 
 ## Education
 
-**BSc Data Science — Simon Fraser University** &nbsp;
+**BSc Data Science @ Simon Fraser University** &nbsp;
 
 *Sep 2020 – Dec 2025*
 
@@ -148,7 +148,7 @@ Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA �
 
 ## Teaching & Mentorship
 
-- **Workshop Lead** — [House Price Prediction](https://github.com/GanVib18/DSSS-Workshop-House-Prices): guided 20+ participants through MLR, regularization, and EDA (DSSS).
-- **Mentor** — [Word Embeddings (ELMo & BERT)](https://github.com/Vancouver-Datajam/Word-Embeddings): coached participants on contextual vector representations applied to climate and disaster event analysis.
+- **Workshop Lead**: [House Price Prediction](https://github.com/GanVib18/DSSS-Workshop-House-Prices): guided 20+ participants through MLR, regularization, and EDA (DSSS).
+- **Mentor**: [Word Embeddings (ELMo & BERT)](https://github.com/Vancouver-Datajam/Word-Embeddings): coached participants on contextual vector representations applied to climate and disaster event analysis.
 
 ---
