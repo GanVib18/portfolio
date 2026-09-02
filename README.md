@@ -101,7 +101,7 @@ Forecasted Canadian CPI during the pandemic with **92% accuracy** using ARIMA �
 
 ## Education
 
-**BSc Data Science — Simon Fraser University** &nbsp;|&nbsp; 
+**BSc Data Science — Simon Fraser University** &nbsp;
 
 *Sep 2020 – Dec 2025*
 
